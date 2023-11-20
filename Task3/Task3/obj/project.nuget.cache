@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqYYSepHE3jy42FY8dYYstjW8iO5aHV14KvUH+vtUmftK5qdXcPT1ExpQ4z3c4uh8malngfb4PGp8XZAhIfYRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artsem\\source\\repos\\Task3\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artsem\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Artsem\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Artsem\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
